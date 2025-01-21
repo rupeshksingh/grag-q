@@ -4,19 +4,19 @@ A robust and scalable pipeline for querying and analyzing tender documents using
 
 ## Features
 
-- 🚀 High-performance Neo4j query execution with connection pooling
+- High-performance Neo4j query execution with connection pooling
 
-- 🤖 LLM-powered query analysis and enhancement using Claude and GPT-4
+- LLM-powered query analysis and enhancement using Claude and GPT-4
 
-- 📊 Advanced progress tracking and performance monitoring
+- Advanced progress tracking and performance monitoring
 
-- 🔄 Robust error handling and retry mechanisms
+- Robust error handling and retry mechanisms
 
-- 📝 Comprehensive logging system
+- Comprehensive logging system
 
-- ✨ Type-safe data models using Pydantic
+- Type-safe data models using Pydantic
 
-- 🧪 Automated testing setup
+- Automated testing setup
 
 ## Architecture
 
@@ -48,9 +48,9 @@ The pipeline consists of several key components:
 
 ```bash
 
-git clone https://github.com/yourusername/tender-retrieval-pipeline.git
+git clone https://github.com/rupeshksingh/grag-q.git
 
-cd tender-retrieval-pipeline
+cd grag-q
 
 ```
 
@@ -176,7 +176,7 @@ LOG_FORMAT="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 ```
 
-tender-retrieval-pipeline/
+grag-q/
 
 ├── src/
 
